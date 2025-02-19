@@ -1,0 +1,13 @@
+uint32 time_stamp
+uint16 time_status
+uint16 year
+uint8 month
+uint8 day
+uint8 hour
+uint8 minute
+uint8 second
+uint32 nano_second
+uint32 gps_tow
+float32 clk_bias_std
+float32 clk_sf_error_std
+float32 clk_residual_err

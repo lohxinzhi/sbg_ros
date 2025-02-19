@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node respawn="true" pkg="sbg_ros" type="getSBGMsg_node" name="ekinox_micro" output="screen">
+        <!-- <rosparam file="$(find bx992)/cfg/bx992_params.yaml" command="load"/> -->
+    </node>
+</launch>

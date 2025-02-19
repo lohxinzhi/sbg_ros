@@ -1,0 +1,15 @@
+uint32  time_stamp
+uint16  imu_status
+float32 accel_0_x
+float32 accel_0_y
+float32 accel_0_z
+float32 gyro_0_x
+float32 gyro_0_y
+float32 gyro_0_z
+float32 temperature
+float32 accel_1_x
+float32 accel_1_y
+float32 accel_1_z
+float32 gyro_1_x
+float32 gyro_1_y
+float32 gyro_1_z

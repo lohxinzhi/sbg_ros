@@ -1,0 +1,11 @@
+uint32  time_stamp
+uint32 status_type
+uint32 tow
+float32 vel_n
+float32 vel_e
+float32 vel_d
+float32 vel_acc_n
+float32 vel_acc_e
+float32 vel_acc_d
+float32 course
+float32 course_acc
